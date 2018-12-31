@@ -1,0 +1,127 @@
+.navbar-inverse{
+	background-color: #ffffff;
+	border: none;
+}
+.navbar-inverse .navbar-nav>li>a.maker{
+	color: green;
+}
+.shopping-area li{
+	border-left: 1px solid #878181;
+}
+.navbar-inverse 
+.navbar-toggle:focus, 
+.navbar-inverse 
+.navbar-toggle:hover{
+	background-color: #ffffff;
+}
+.navbar-default{
+	
+	border: none;
+	padding-left: 80px;
+}
+
+.container #myNavbar1{
+	margin-left: 20px;
+}
+
+#globalPlatform{
+	position: relative;
+}
+
+#globalPlatform .img-responsive{
+	width: 100%;
+	height: auto;
+}
+#globalPlatform.content{
+	position: absolute;
+	bottom: 50%;
+	left: 20%;
+}
+#makeyou .img-responsive{
+	margin-left: 200px;
+
+}
+.container .img-responsive{
+	margin-right: 100px;
+}
+
+
+
+#globalPlatform #cookies{
+	background-color: #696969;
+	color: #ffffff;
+	padding: 20px 30px 10px 30px;
+	position: absolute;
+	bottom: 0%;
+	width: 100%;
+}
+#globalPlatform #cookies .btn{
+	background-color: #000000;
+	color: #ffffff;
+}
+
+
+#designers .globe{
+	position: absolute;
+	bottom: 40px;
+	left:260px;
+	color: #ffffff;
+	
+	
+}
+
+
+#designers .global{
+	position: relative;
+	bottom: 160px;
+	left:120px;
+	color: #ffffff;
+}
+#designers .global .btn{
+	background-color: #ffffff;
+	color: #696969;
+
+}	
+	
+
+
+
+
+footer{
+	background-color:#808080;
+	color: #ffffff;
+	margin-top: 70px;
+
+}
+footer h3{
+	text-align: center;
+}
+footer .row .nav li>a{
+	color: #ffffff;
+}
+footer .contact li{
+	border-right: 1px solid #ffffff;
+	text-decoration: underline;
+	text-decoration-color: grey;
+}
+footer li:last-child{
+	border: none;
+}
+footer .social-icons{
+	padding-left: 60px;
+}
+footer .social-icons li a i{
+	font-size: 20px;
+}
+#update{
+	border-top: 1px dotted #dddddd;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	}
+
+#update .btn{
+	background-color: #ffffff;
+	color: #000000;
+	text-align: center;
+	height: 55px;
+}
